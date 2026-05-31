@@ -1,0 +1,5 @@
+User is a Chinese-speaking student preparing for 考研 (graduate school entrance exam) in Optoelectronic Information Science and Engineering (光电信息科学与工程), targeting Shenzhen University (深圳大学). Interested in exam subjects, reference books, online courses, and study materials. Also tech-savvy — enjoys setting up CLI tools and automation in WSL. Has installed: hermes-web-ui, firecrawl, autocli, Agent Reach (小红书/抖音/微信公众号 channels), claude-code v2.1.150, codex v0.135.0. Has accounts on 小红书, xueqiu, and other Chinese platforms. Prefers Chinese language responses. Alternates between WSL terminal and Windows PowerShell (username 20453) — needs commands translated for correct environment. Expects precise search results and will correct when they don't match. Prefers concise, direct responses.
+§
+中国考研学生，目标院校深圳大学，专业方向光电信息科学与工程/光学工程。需要工程光学网课、考研科目和参考书等学习资料。对百度文库、道客巴巴等中文文档分享平台有需求。
+§
+User's Windows username is 20453 (from PowerShell prompt PS C:\Users\20453). Primary interaction is through WSL but sometimes runs commands from Windows PowerShell by mistake.
